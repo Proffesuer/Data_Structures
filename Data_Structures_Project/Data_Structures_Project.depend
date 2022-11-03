@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1667505817 source:/home/proffessuer/My_web_Projects/Data_Structures/Data_Structures_Project/main.c
+	<stdio.h>
+	<stdlib.h>
+
