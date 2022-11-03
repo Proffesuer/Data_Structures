@@ -9,6 +9,9 @@ int main()
     int table[2][3];
     /* other variables for loops*/
     int i,j;
+    printf("===============================================================\n");
+    printf("\tTHIS IS A 2DIMENSION ARRAY PROGRAM\n");
+    printf("================================================================\n");
 
     for(i=0;i<2;i++){
     for(j=0;j<3;j++){
@@ -30,7 +33,9 @@ int main()
     }
 
 /*Displaying array elements*/
+printf("=======================================================================\n");
 printf("Display of the Two array element:\n");
+/*Displaying array elements*/
 for(i=0;i<2;i++){
 
 for(j=0;j<3;j++){
@@ -46,8 +51,6 @@ printf("\n");
 
 
 
-
-
 }
 
 
@@ -56,7 +59,8 @@ printf("\n");
 
 }
 
-
+/*Displaying array elements*/
+printf("============================================By:Proffesuer Chisira=================\n");
 
 
     return 0;
