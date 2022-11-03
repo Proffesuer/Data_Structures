@@ -29,7 +29,32 @@ int main()
 
     }
 
+/*Displaying array elements*/
+printf("Display of the Two array element:\n");
+for(i=0;i<2;i++){
 
+for(j=0;j<3;j++){
+
+printf("%d",table[i][j]);
+if(j==2){
+
+
+printf("\n");
+
+}
+
+
+
+
+
+
+}
+
+
+
+
+
+}
 
 
 
